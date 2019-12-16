@@ -1,0 +1,11 @@
+C:\Users\Mohamed\source\repos\seald_class_and_member\bin\Debug\netcoreapp3.0\seald_class_and_member.exe
+C:\Users\Mohamed\source\repos\seald_class_and_member\bin\Debug\netcoreapp3.0\seald_class_and_member.deps.json
+C:\Users\Mohamed\source\repos\seald_class_and_member\bin\Debug\netcoreapp3.0\seald_class_and_member.runtimeconfig.json
+C:\Users\Mohamed\source\repos\seald_class_and_member\bin\Debug\netcoreapp3.0\seald_class_and_member.runtimeconfig.dev.json
+C:\Users\Mohamed\source\repos\seald_class_and_member\bin\Debug\netcoreapp3.0\seald_class_and_member.dll
+C:\Users\Mohamed\source\repos\seald_class_and_member\bin\Debug\netcoreapp3.0\seald_class_and_member.pdb
+C:\Users\Mohamed\source\repos\seald_class_and_member\obj\Debug\netcoreapp3.0\seald_class_and_member.csprojAssemblyReference.cache
+C:\Users\Mohamed\source\repos\seald_class_and_member\obj\Debug\netcoreapp3.0\seald_class_and_member.AssemblyInfoInputs.cache
+C:\Users\Mohamed\source\repos\seald_class_and_member\obj\Debug\netcoreapp3.0\seald_class_and_member.AssemblyInfo.cs
+C:\Users\Mohamed\source\repos\seald_class_and_member\obj\Debug\netcoreapp3.0\seald_class_and_member.dll
+C:\Users\Mohamed\source\repos\seald_class_and_member\obj\Debug\netcoreapp3.0\seald_class_and_member.pdb
